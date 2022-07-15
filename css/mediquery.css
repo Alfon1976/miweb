@@ -1,0 +1,1681 @@
+@media screen and (max-width: 2280px) {
+
+  header {
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-image: url("../img/2.jpeg");
+
+  }
+
+
+  .logo {
+
+
+    width: 200px;
+    height: auto;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 40px;
+  }
+
+  .logo_img {
+
+
+    width: 200px;
+    height: auto;
+    background-color: transparent;
+
+  }
+
+  header {
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-image: url("../img/2.jpeg");
+
+  }
+
+  .cajas {
+    width: 590px;
+    height: 471px;
+    padding: 5px;
+
+  }
+
+
+  .galeriaprincipal-caja {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+  }
+
+  .galeriadeslizante {
+    display: flex;
+  }
+
+  .titulo {
+    height: auto;
+  }
+
+  .titulo-enunciado {
+    width: 90%;
+    height: 300px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    line-height: 1.5;
+    padding: 0px;
+
+  }
+
+  .titulo {
+    height: auto;
+  }
+
+  .titulo-parrafo {
+    color: gray;
+    font-size: 3em;
+  }
+
+  .titulo-cabecera {
+    font-size: 4em;
+  }
+
+  .datos_empresa {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+    margin-bottom: 90px;
+
+  }
+
+  .whatsapp {
+    width: 100%;
+    height: 400px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .caja {
+    width: 45%;
+    height: 400px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+  .wasap {
+    display: none;
+  }
+
+  .cartaqr {
+    text-align: center;
+  }
+
+  .whatsapp-foto {
+    width: 200px;
+    height: 200px;
+
+  }
+
+
+  .qr {
+    width: 200px;
+    height: 200px;
+
+  }
+
+  .titulo__datos_empresa {
+
+    text-align: center;
+    color: #dc143c;
+    font-size: 3em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .parrafo__datos_empresa {
+    text-align: center;
+    color: black;
+    font-size: 2.5em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+
+
+  .galeriadeslizante {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: orange;
+
+  }
+
+  .movil {
+
+    width: 100%;
+    height: 550px;
+    overflow-y: hidden;
+
+  }
+
+
+}
+
+
+@media screen and (max-width: 1280px) {
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: auto;
+  }
+
+  .menu_elemento li a {
+
+
+    color: white;
+  }
+
+  .logo {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 40px;
+  }
+
+  .logo_img {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+
+  }
+
+  header {
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-image: url("../img/2.jpeg");
+
+  }
+
+  .cajas {
+    width: 390px;
+    height: 371px;
+    padding: 5px;
+
+  }
+
+
+  .galeriaprincipal-caja {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+  }
+
+  .galeriadeslizante {
+    display: flex;
+  }
+
+  .titulo {
+    height: auto;
+  }
+
+  .titulo-enunciado {
+    width: 90%;
+    height: 300px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    line-height: 1.5;
+    padding: 0px;
+
+  }
+
+  .titulo-enunciado h2 {
+    font-family: 'Roboto Slab', serif;
+  }
+
+  .titulo {
+    height: auto;
+  }
+
+  .titulo-parrafo {
+    color: gray;
+    font-size: 2.5em;
+  }
+
+  .titulo-cabecera {
+    font-size: 3em;
+  }
+
+  .datos_empresa {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+    margin-bottom: 90px;
+
+
+  }
+
+  .whatsapp {
+    width: 100%;
+    height: 400px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .caja {
+    width: 45%;
+    height: 400px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+  .wasap {
+    display: none;
+  }
+
+  .cartaqr {
+    text-align: center;
+  }
+
+  .whatsapp-foto {
+    width: 200px;
+    height: 200px;
+
+  }
+
+
+  .qr {
+    width: 200px;
+    height: 200px;
+
+  }
+
+  .titulo__datos_empresa {
+
+    text-align: center;
+    color: #dc143c;
+    font-size: 1.9em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .parrafo__datos_empresa {
+    text-align: center;
+    color: black;
+    font-size: 1.9em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+
+
+  .galeriadeslizante {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: orange;
+
+  }
+
+  .movil {
+
+    width: 100%;
+    height: 450px;
+    overflow-y: hidden;
+
+  }
+
+  .cajaplatos {
+    width: 800px;
+    height: auto;
+    margin: auto;
+
+  }
+
+  .fotoplatos {
+    width: 800px;
+    height: 600px;
+  }
+
+  .textoplatos {
+    margin-bottom: 20px;
+    
+
+  }
+
+
+}
+
+@media screen and (max-width: 1080px) {
+  header {
+    display: flex;
+    width: 100%;
+    height: 800px;
+    background-image: url("../img/2.jpeg");
+
+  }
+
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+  }
+
+
+
+  .boton_menu img {
+    background-color: #5A98A3;
+    font-size: 100px;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 40px;
+
+
+  }
+
+
+  .logo {
+
+
+    width: 200px;
+    height: auto;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 40px;
+  }
+
+  .logo_img {
+
+
+    width: 170px;
+    height: auto;
+    background-color: white;
+    border-radius: 50%;
+    border: 5px solid gold;
+
+
+
+  }
+
+  .cajas {
+    width: 450px;
+    height: 450px;
+    padding: 5px;
+  }
+
+
+  .titulo-enunciado {
+    width: 900px;
+    height: 400px;
+
+    text-align: center;
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
+    padding: 0px;
+  }
+
+  .datos_empresa {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin-bottom: 90px;
+
+  }
+
+  .parrafo_empresa {
+    color: #5A98A3;
+    font-size: 2.7em;
+
+  }
+
+  .caja {
+    width: 100%;
+    height: 300px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+  .cajas p {
+    width: 100%;
+    font-size: 2.3em;
+    color: #5A98A3;
+
+  }
+
+  .cartaqr {
+    text-align: center;
+  }
+
+  .whatsapp-foto {
+    width: 300px;
+    height: 300px;
+
+  }
+
+  .qr {
+    width: 400px;
+    height: 400px;
+
+  }
+
+  .titulo__datos_empresa {
+    text-align: center;
+    color: #dc143c;
+    font-size: 2.8em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .parrafo__datos_empresa {
+    text-align: center;
+    color: black;
+    font-size: 2.1em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .galeriaprincipal_platos {
+    margin-top: 10px;
+  }
+
+  .cajaplatos {
+    width: 100%;
+    height: auto;
+  }
+
+  .fotoplatos {
+    width: 750px;
+    height: 950px;
+  }
+
+  .textoplatos {
+    font-size: 1.9em;
+   padding: 40px;
+   width: 90%;
+   margin: auto;
+   
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+  }
+
+
+
+  .boton_menu img {
+
+    background-color: #5A98A3;
+    font-size: 100px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 40px;
+
+  }
+
+  ul.desplegar {
+    top: 100px;
+  }
+
+  .logo {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 40px;
+  }
+
+  .logo_img {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+  }
+
+  header {
+    display: flex;
+    width: 100%;
+    height: 550px;
+    background-image: url("../img/2.jpeg");
+  }
+
+
+  .cajas {
+    width: 320px;
+    height: 371px;
+  }
+
+  .titulo-enunciado {
+    width: 90%;
+    height: 400px;
+    text-align: center;
+    margin-bottom: 100px;
+
+
+
+  }
+
+  .titulo-parrafo {
+    color: black;
+    font-size: 2.5em;
+  }
+
+
+  h2 {
+    font-family: 'Roboto Slab', serif;
+
+    font-size: 2.9em;
+    color: goldenrod;
+  }
+
+  .titulo-cabecera {
+    font-size: 2.9em;
+
+  }
+
+  .datos_empresa {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin-bottom: 50px;
+
+  }
+
+  .caja {
+    width: 100%;
+    height: 150px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+
+  .cajas p {
+
+    font-size: 1.6em;
+
+
+
+  }
+
+  .cartaqr {
+    text-align: center;
+  }
+
+  .whatsapp-foto {
+    width: 200px;
+    height: 200px;
+
+  }
+
+  .qr {
+    width: 200px;
+    height: 220px;
+
+  }
+
+  .titulo__datos_empresa {
+    text-align: center;
+    color: #dc143c;
+    font-size: 2em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .parrafo__datos_empresa {
+    text-align: center;
+    color: black;
+    font-size: 1.6em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .galeriaprincipal_platos {
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .cajaplatos {
+
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .fotoplatos {
+    width: 650px;
+    height: 750px;
+
+  }
+
+  .textoplatos {
+    font-size: 1.2em;
+   
+    padding: 40px;
+    
+  }
+
+
+}
+
+@media screen and (max-width: 600px) {
+  .cajas {
+    width: 280px;
+    height: 371px;
+  }
+}
+
+
+@media screen and (max-width: 540px) {
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+  }
+
+
+
+  .boton_menu img {
+
+    background-color: #5A98A3;
+    font-size: 100px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 40px;
+
+  }
+
+  ul.desplegar {
+    top: 100px;
+  }
+
+  .logo {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 40px;
+  }
+
+  .logo_img {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+
+
+
+  }
+
+  header {
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-image: url("../img/2.jpeg");
+
+
+  }
+
+  .cajas {
+    width: 460px;
+    height: 400px;
+  }
+
+  .galeriaprincipal-caja {
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+  }
+
+  .titulo {
+    height: auto;
+  }
+
+  .titulo-enunciado {
+    width: 90%;
+    height: 600px;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .titulo {
+    height: auto;
+  }
+
+  .titulo-parrafo {
+    color: black;
+    font-size: 2.3em;
+  }
+
+  .titulo-cabecera {
+    font-size: 3.1em;
+  }
+
+
+
+  .datos_empresa {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin-bottom: 70px;
+
+  }
+
+  .caja {
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+  .cartaqr {
+    text-align: center;
+  }
+
+  .whatsapp-foto {
+    width: 250px;
+    height: 250px;
+
+  }
+
+  .qr {
+    width: 250px;
+    height: 250px;
+
+  }
+
+  .titulo__datos_empresa {
+    text-align: center;
+    color: #dc143c;
+    font-size: 1.4em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .parrafo__datos_empresa {
+    text-align: center;
+    color: black;
+    font-size: 1.1em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .galeriadeslizante {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: orange;
+
+  }
+
+  .movil {
+
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+
+  }
+
+
+  .galeriaprincipal_platos {
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .cajaplatos {
+
+    width: 100%;
+    height: auto;
+
+  }
+
+  .fotoplatos {
+    width: 450px;
+    height: 750px;
+
+  }
+
+
+
+}
+
+@media screen and (max-width: 411px) {
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+  }
+
+
+
+  .boton_menu img {
+
+    background-color: #5A98A3;
+    font-size: 100px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 40px;
+
+  }
+
+  ul.desplegar {
+    top: 100px;
+  }
+
+  .logo {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 40px;
+  }
+
+  .logo_img {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+
+
+
+  }
+
+  header {
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-image: url("../img/2.jpeg");
+
+
+  }
+
+  .cajas {
+    width: 360px;
+    height: 371px;
+  }
+
+  .cajas p {
+
+    font-size: 1.5em;
+
+
+
+  }
+
+
+  .titulo {
+
+    height: auto;
+
+
+  }
+
+  .titulo-enunciado {
+    width: 90%;
+    height: 200px;
+    text-align: center;
+    margin-bottom: 40px;
+
+
+  }
+
+  .titulo-parrafo {
+    color: grey;
+    font-size: 1.3em;
+  }
+
+  h2 {
+    font-family: 'Roboto Slab', serif;
+
+    font-size: 1.2em;
+    color: goldenrod;
+  }
+
+  .titulo-cabecera {
+    font-size: 1.6em;
+
+  }
+
+
+  .datos_empresa {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin-bottom: 50px;
+
+  }
+
+  .caja {
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+  .cartaqr {
+    text-align: center;
+  }
+
+  .whatsapp-foto {
+    width: 200px;
+    height: 200px;
+
+  }
+
+  .qr {
+    width: 200px;
+    height: 220px;
+
+  }
+
+  .titulo__datos_empresa {
+    text-align: center;
+    color: #dc143c;
+    font-size: 1.3em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .parrafo__datos_empresa {
+    text-align: center;
+    color: black;
+    font-size: 1em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .galeriadeslizante {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: orange;
+
+  }
+
+  .movil {
+
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+
+  }
+
+  .pie_pagina ul {
+
+    flex-direction: column;
+
+
+  }
+
+  .pie_pagina li {
+
+    padding: 5px;
+
+
+
+  }
+
+  .footer-end {
+    text-align: center;
+    font-size: 1.1em;
+    padding: 20px;
+  }
+
+  .galeriaprincipal_platos {
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .cajaplatos {
+
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .fotoplatos {
+    width: 350px;
+    height: 650px;
+
+  }
+
+
+}
+
+
+@media screen and (max-width: 375px) {
+  .menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+  }
+
+
+  .boton_menu img {
+
+    background-color: #5A98A3;
+    font-size: 100px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 40px;
+
+  }
+
+  ul.desplegar {
+    display: flex;
+    top: 100px;
+  }
+
+  .logo {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+    display: none;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 40px;
+  }
+
+  .logo_img {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+
+
+
+  }
+
+  header {
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-image: url("../img/2.jpeg");
+
+
+  }
+
+  .cajas {
+    width: 340px;
+    height: 371px;
+  }
+
+  .cajas p {
+
+    font-size: 1.4em;
+
+
+
+  }
+
+  .titulo {
+
+    height: auto;
+
+
+  }
+
+  .titulo-enunciado {
+    width: 90%;
+    height: 220px;
+    text-align: center;
+    margin-bottom: 40px;
+
+
+  }
+
+  .titulo-parrafo {
+    color: grey;
+    font-size: 1.3em;
+  }
+
+  h2 {
+    font-family: 'Roboto Slab', serif;
+
+    font-size: 1.2em;
+    color: goldenrod;
+  }
+
+  .titulo-cabecera {
+    font-size: 1.6em;
+
+  }
+
+
+  .datos_empresa {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin-bottom: 50px;
+
+  }
+
+  .caja {
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+  .cartaqr {
+    text-align: center;
+  }
+
+  .whatsapp-foto {
+    width: 200px;
+    height: 200px;
+
+  }
+
+  .qr {
+    width: 200px;
+    height: 220px;
+
+  }
+
+  .titulo__datos_empresa {
+    text-align: center;
+    color: #dc143c;
+    font-size: 1.2em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .parrafo__datos_empresa {
+    text-align: center;
+    color: black;
+    font-size: 0.9em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .galeriadeslizante {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: orange;
+
+  }
+
+  .movil {
+
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+
+  }
+
+  .pie_pagina ul {
+
+    flex-direction: column;
+
+
+  }
+
+  .pie_pagina li {
+
+    padding: 5px;
+
+
+
+  }
+
+  .footer-end {
+    text-align: center;
+    font-size: 1.1em;
+    padding: 20px;
+  }
+
+  .galeriaprincipal_platos {
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .cajaplatos {
+
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .fotoplatos {
+    width: 340px;
+    height: 550px;
+
+  }
+
+
+
+}
+
+@media screen and (max-width: 360px) {
+
+
+
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+  }
+
+
+
+  .boton_menu img {
+
+    background-color: #5A98A3;
+    font-size: 100px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 40px;
+
+  }
+
+  ul.desplegar {
+    top: 100px;
+  }
+
+  .logo {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 40px;
+  }
+
+  .logo_img {
+
+
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+
+
+
+  }
+
+  header h1 {
+    display: none;
+    font-weight: 400;
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 3em;
+
+  }
+
+  nav ul {
+    display: none;
+    width: 500px;
+
+  }
+
+  @keyframes slidein {
+    from {
+      margin-bottom: 50%;
+      width: 100%
+    }
+
+    to {
+      margin-bottom: 0%;
+      width: 100%;
+    }
+  }
+
+  .titulo {
+    width: 90%;
+    height: 380px;
+    margin: auto;
+
+
+
+  }
+
+  .titulo-enunciado {
+    width: 900px;
+    height: 360px;
+
+    text-align: center;
+    font-size: 16px;
+    color: black;
+    line-height: 0.9;
+    padding: 0px;
+  }
+
+  .cajas {
+    width: 320px;
+    height: 371px;
+  }
+
+
+
+
+  .titulo {
+
+    height: auto;
+
+
+  }
+
+  .titulo-enunciado {
+    width: 100%;
+    height: 220px;
+    text-align: center;
+    margin-bottom: 100px;
+
+
+  }
+
+  .titulo-parrafo {
+    color: grey;
+    font-size: 1.4em;
+    line-height: 30px;
+  }
+
+  h2 {
+    font-family: 'Roboto Slab', serif;
+    line-height: 30px;
+    font-size: 1.2em;
+    color: goldenrod;
+  }
+
+  .titulo-cabecera {
+    font-size: 1.7em;
+
+  }
+
+  .datos_empresa {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin-bottom: 50px;
+
+  }
+
+  .caja {
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+  .cajas p {
+
+    font-size: 1.4em;
+
+
+
+  }
+
+
+  .cartaqr {
+    text-align: center;
+  }
+
+  .whatsapp-foto {
+    width: 200px;
+    height: 200px;
+
+  }
+
+  .qr {
+    width: 200px;
+    height: 220px;
+
+  }
+
+  .titulo__datos_empresa {
+    text-align: center;
+    color: #dc143c;
+    font-size: 1.2em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .parrafo__datos_empresa {
+    text-align: center;
+    color: black;
+    font-size: 0.9em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .galeriadeslizante {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: orange;
+
+  }
+
+  .movil {
+
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+
+  }
+
+  .galeriaprincipal_platos {
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .cajaplatos {
+
+    width: 300px;
+    height: auto;
+
+
+  }
+
+  .fotoplatos {
+    width: 300px;
+    height: 250px;
+
+  }
+
+
+}
+
+
+@media screen and (max-width: 280px) {
+
+  .cajas {
+    width: 270px;
+    height: 271px;
+  }
+
+  .titulo {
+    height: auto;
+  }
+
+  .titulo-enunciado {
+    width: 90%;
+    height: 350px;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .titulo {
+    height: auto;
+  }
+
+  .titulo-parrafo {
+    color: black;
+    font-size: 1.3em;
+  }
+
+  .titulo-cabecera {
+    font-size: 1.4em;
+  }
+
+  .galeriaprincipal_platos {
+    width: 100%;
+    height: auto;
+
+
+  }
+
+  .cajaplatos {
+
+    width: 200px;
+    height: auto;
+
+
+  }
+
+  .fotoplatos {
+    width: 200px;
+    height: 150px;
+
+  }
+
+  .textoplatos {
+    font-size: 1.1em;
+    color: #dc143c;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+}
